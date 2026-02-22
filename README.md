@@ -125,7 +125,7 @@ Si tienes preguntas sobre desarrollo web, documentación o IA, no dudes en conta
 
 </details>
 
-<img height="200" alt="Foto de avatar" img src="SanaballBot.png">
+<img height="200" alt="Foto de avatar" img src="MasterballBottom.png">
 
 ------
 
