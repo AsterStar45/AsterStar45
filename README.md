@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Foto de avatar de KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9">
+      <img height="200" alt="Foto de avatar" img src="assets/avatar.png">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg">
