@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<img height="200" alt="Masterball" img src="MasterballTop.png">
 
 <details>
 <summary>Abrir perfil</summary>
@@ -125,7 +125,7 @@ Si tienes preguntas sobre desarrollo web, documentación o IA, no dudes en conta
 
 </details>
 
-<img height="200" alt="Foto de avatar" img src="MasterballBottom.png">
+<img height="200" alt="Masterball" img src="MasterballBottom.png">
 
 ------
 
