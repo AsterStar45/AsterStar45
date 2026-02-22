@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Aster 🌟</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Bienvenidos a mi perfil 🌟</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
 
@@ -20,12 +20,9 @@
     </div>
 </div>
 
-<details>
-<summary>✮ Sobre mí</summary>
-
 <div align="center">
 
-## 👋 Sobre mí
+<h1> 👋 Sobre mí</h1>
 
 🎀 ¡Hola! Soy **Aster**  
 💻 Desarrollador **Backend & Frontend**  
@@ -34,8 +31,6 @@
 
 Me apasiona crear soluciones eficientes, optimizar sistemas y desarrollar experiencias interactivas.  
 Disfruto trabajar tanto en la lógica del servidor como en interfaces atractivas y funcionales.
-
----
 
 ## 🌎 Idiomas
 
@@ -47,11 +42,10 @@ Disfruto trabajar tanto en la lógica del servidor como en interfaces atractivas
 ✨ Siempre aprendiendo, siempre construyendo.
 
 </div>
-</details>
-
-<details>
-<summary>🛠 Herramientas</summary>
 <br>
+<br>
+<br>
+<h1>🛠 Herramientas</h1>
 
 <div align="center">
 
@@ -80,54 +74,23 @@ Disfruto trabajar tanto en la lógica del servidor como en interfaces atractivas
 
 ---
 
+### 🎮 Desarrollo de Videojuegos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
+<img height="40" alt="GM2" img src="GM2.png">
+
+
+---
 ### 🤖 IA
-<img src="https://cdn.simpleicons.org/openai/white" height="40" />
-<img src="https://cdn.simpleicons.org/googlebard/white" height="40" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://cdn.simpleicons.org/googlegemini" height="40" />
 <img src="https://cdn.simpleicons.org/githubcopilot/white" height="40" />
 <img src="https://cdn.simpleicons.org/huggingface/white" height="40" />
 
 </div>
 <br>
-</details>
-
-<details>
-  <summary>Estadísticas de GitHub</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estadísticas de GitHub">
-  </p>
-</details>
-
-<details>
-  <summary>Contribuciones Open Source</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Documentación Oficial de JavaScript:</strong> Contribuí a mejorar y mantener la documentación oficial de JavaScript en MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Contribuciones al proyecto Pymemcache, cliente eficiente en Python para memcached.</li>
-    <li><strong>The Algorithms - JavaScript y C++:</strong> Implementaciones de algoritmos y estructuras de datos.</li>
-    <li><strong>True Sparrow:</strong> Lideré proyectos desde su inicio hasta producción.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Frase</summary>
-  <br>
-  <blockquote>
-    “Un bug nunca es solo un error. Representa algo más grande. Un error de pensamiento. Eso es lo que te define.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
-  </blockquote>
-</details>
-
-<details>
-  <summary>Dosis GRATIS</summary>
-  <br>
-  <small><i>DOSE (dopamina, oxitocina, serotonina y endorfina), actualiza la página si la dosis no fue efectiva.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Tarjeta de chistes" /></div>
-</details>
-
-<details>
-<summary>¿Qué puedo hacer por ti?</summary>
+<br>
+<br>
+<h1>😇 ¿Qué puedo hacer por ti?</h1>
 
 ## ¡Trabajemos juntos en tu proyecto!
 
@@ -135,15 +98,10 @@ Si tienes preguntas sobre desarrollo web, documentación o IA, no dudes en conta
 
 ## No es perfecto, ¿verdad?
 
-“Creo que es muy importante tener un ciclo de retroalimentación constante, donde estés pensando en lo que has hecho y cómo podrías hacerlo mejor.”  
-– Elon Musk
+"La perfección no es alcanzable, pero si perseguimos la perfección podemos alcanzar la excelencia."
+– Vince Lombardi
 
-</details>
 
 </details>
 
 <img height="200" alt="Masterball" img src="MasterballBottom.png">
-
-------
-
-Crédito: [10Kartik](https://github.com/10Kartik)
