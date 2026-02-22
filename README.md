@@ -14,11 +14,11 @@
   <div align=center>
       <img height="200" alt="Foto de avatar" img src="avatar.png">
   </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Kartik;Bienvenido+a+mi+perfil+de+GitHub;Curioso+e+inquisitivo+por+naturaleza;Ingeniero+de+Software+y+Computación;Desarrollador+Backend+y+iOS;Amante+de+CS2+y+el+fútbol;Trabajador+y+ambicioso;Fan+del+gym;Apasionado+por+la+música+y+la+programación" alt="Typing SVG" />
-      </a>
-  </div>
+    <div align="center">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3500&pause=400&color=FF69B4&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Aster;Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+-+Frontend;Ingeniero+Database;Programador+de+videojuegos"
+    />
+    </div>
 </div>
 
 <details>
@@ -125,7 +125,7 @@ Si tienes preguntas sobre desarrollo web, documentación o IA, no dudes en conta
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+<img height="200" alt="Foto de avatar" img src="SanaballBot.png">
 
 ------
 
