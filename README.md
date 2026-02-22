@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Aster </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Aster 🌟</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
 
@@ -7,8 +7,7 @@
 <img height="200" alt="Masterball" img src="MasterballTopp.png">
 
 <details>
-<summary>Abrir perfil</summary>
-
+<summary><b>Abrir perfil</b></summary>
 <br>
 <div>
   <div align=center>
@@ -22,55 +21,73 @@
 </div>
 
 <details>
-<summary>Sobre mí</summary>
+<summary>✮ Sobre mí</summary>
 
-<div align="left">
+<div align="center">
 
-```js
-/**
- * Representa quién soy.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - Inglés, Hindi, Marathi.
- * @param {string} jobTitle - Ingeniero de Software.
- * @param {string} specialization - Construcción de sistemas Backend completos y aplicaciones iOS.
- * @param {string} interests - IA, Sistemas Distribuidos y resolución de problemas.
- * @param {string} hobbies - Senderismo, lectura, videojuegos y música.
- * @param {string} education - Ingeniería en Computación (BTech), Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Sí, para colaborar en proyectos interesantes, no dudes en contactarme.
- * @param {string} stength - Determinación.
- * @param {string} weakness - Timidez.
- *
- * @throws {Punch} A cualquier bug.
- *
- * @returns {Object} Kartik.
- */
-```
+## 👋 Sobre mí
+
+🎀 ¡Hola! Soy **Aster**  
+💻 Desarrollador **Backend & Frontend**  
+🗄️ Ingeniero en **Bases de Datos**  
+🎮 Programador de **Videojuegos**  
+
+Me apasiona crear soluciones eficientes, optimizar sistemas y desarrollar experiencias interactivas.  
+Disfruto trabajar tanto en la lógica del servidor como en interfaces atractivas y funcionales.
+
+---
+
+## 🌎 Idiomas
+
+- 🇪🇸 Español — Nativo  
+- 🇺🇸 Inglés — Fluido  
+
+---
+
+✨ Siempre aprendiendo, siempre construyendo.
 
 </div>
 </details>
 
 <details>
-<summary>Herramientas</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd><kbd>Lenguajes de Programación</kbd><br><br>
-      <!-- ICONOS ORIGINALES SIN CAMBIOS -->
-    </kbd>
+<summary>🛠 Herramientas</summary>
+<br>
 
-    <kbd><kbd>Back-end</kbd><br><br></kbd>
-    <kbd><kbd>Móvil</kbd><br><br></kbd>
-    <kbd><kbd>Front-end</kbd><br><br></kbd>
-    <kbd><kbd>Bases de Datos</kbd><br><br></kbd>
-    <br><br>
-    <kbd><kbd>Automatización, Ciencia de Datos e IA</kbd><br><br></kbd>
-    <kbd><kbd>Sistemas Operativos, Redes y Despliegue</kbd><br><br></kbd>
-    <kbd><kbd>Scripts de Terminal</kbd><br><br></kbd>
-    <kbd><kbd>Herramientas</kbd><br><br></kbd>
-    <kbd><kbd>Desarrollo de Videojuegos</kbd><br><br></kbd>
-  </p>
+<div align="center">
+
+### 🧠 Lenguajes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+
+---
+
+### ⚛️ Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+
+---
+
+### 🗄️ Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+
+---
+
+### 💻 Herramientas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+
+---
+
+### 🤖 IA
+<img src="https://cdn.simpleicons.org/openai/white" height="40" />
+<img src="https://cdn.simpleicons.org/googlebard/white" height="40" />
+<img src="https://cdn.simpleicons.org/githubcopilot/white" height="40" />
+<img src="https://cdn.simpleicons.org/huggingface/white" height="40" />
+
 </div>
+<br>
 </details>
 
 <details>
@@ -130,5 +147,3 @@ Si tienes preguntas sobre desarrollo web, documentación o IA, no dudes en conta
 ------
 
 Crédito: [10Kartik](https://github.com/10Kartik)
-
-Última edición: 18/01/2024
