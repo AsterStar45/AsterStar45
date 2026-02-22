@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Foto de avatar" img src="assets/avatar.png">
+      <img height="200" alt="Foto de avatar" img src="avatar.png">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg">
