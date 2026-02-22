@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img height="200" alt="Masterball" img src="MasterballTop.png">
+<img height="200" alt="Masterball" img src="MasterballTopp.png">
 
 <details>
 <summary>Abrir perfil</summary>
